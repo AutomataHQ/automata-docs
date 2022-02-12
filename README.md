@@ -1,6 +1,6 @@
-# Website
+# Automata Docs
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+The source for official documentation hosted at [https://docs.automata.sh](https://docs.automata.sh)
 
 ### Installation
 
