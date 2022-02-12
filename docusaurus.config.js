@@ -106,7 +106,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Automata, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Automata, Inc.`,
       },
       prism: {
         theme: lightCodeTheme,

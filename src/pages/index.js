@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`Documentaion for ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="The Continous Automation Platform">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
